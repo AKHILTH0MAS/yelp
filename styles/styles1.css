@@ -315,3 +315,6 @@ footer {
 .copyright {
   margin: 0;
 }
+.desktop{
+  display: none;
+}
